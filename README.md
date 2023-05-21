@@ -2,7 +2,7 @@
 
 ### Servidor
 
-El servidor se ejecutará en el puerto 3000. despues de escribir en consola `node index` se desplegará el siguiente mensaje:
+El servidor se ejecutará en el puerto 3000, después de escribir en consola `node index` en la ruta `node-express/backend/` se desplegará el siguiente mensaje:
 
 ```
 Server is running in port: 3000
